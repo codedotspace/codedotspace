@@ -9,7 +9,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-<img src="https://i.pinimg.com/originals/e0/0c/47/e00c47431702e4b6e423d5742a0bec1a.gif" width="880" height="192"  />
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*cD8WMb82cSXACDTG8mlWhw.gif" width="880" height="192"  />
 
 ###
 
