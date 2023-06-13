@@ -4,7 +4,7 @@
 ### <img src="https://cdn3.emoji.gg/emojis/7163-mocha10.gif" width="34px"> I just study and spend time on hobbies.
 
 # 
-!<img src="https://i.pinimg.com/originals/f9/c2/f1/f9c2f1ecd5d5ae436a06eeacf662c24f.gif" width="34px">
+<img src="https://i.pinimg.com/originals/f9/c2/f1/f9c2f1ecd5d5ae436a06eeacf662c24f.gif" width="40px">
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
