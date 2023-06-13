@@ -8,9 +8,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*cD8WMb82cSXACDTG8mlWhw.gif" width="990" height="192"  />
-
 ###
 
 <!---
